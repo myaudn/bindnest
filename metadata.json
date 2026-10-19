@@ -1,0 +1,6 @@
+{
+  "name": "Bindnest",
+  "description": "A quiet literary sanctuary featuring synchronized buddy reads, bespoke aesthetic bookshelves, calm reading telemetry, and customizable distraction-free reading environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Three fanned book pages at top -->
+  <path d="M 57 1 L 55 12 C 45 6 25 10 13 18 L 10 24 C 20 18 36 12 55 12 L 57 1 Z" fill="#934520"/>
+  <path d="M 67 6 L 65 17 C 55 11 38 14 26 23 L 23 27 C 35 20 50 16 65 17 L 67 6 Z" fill="#934520"/>
+  <path d="M 76 16 L 73 26 C 60 21 42 24 33 30 L 30 33 C 43 27 58 24 73 26 L 76 16 Z" fill="#934520"/>
+  <!-- Main Book-B Body -->
+  <path d="M 12 24 C 25 18 52 24 74 27 C 87 29 93 42 93 54 C 93 66 84 75 72 79 C 90 84 100 98 100 114 C 100 133 83 148 60 148 C 35 148 16 145 2 135 C 1 120 1 35 12 24 Z M 26 43 L 26 73 C 40 73 68 74 68 58 C 68 44 42 43 26 43 Z M 26 91 L 26 129 C 42 129 74 130 74 110 C 74 92 42 91 26 91 Z" fill="#934520" fill-rule="evenodd" clip-rule="evenodd"/>
+  <path d="M 78 102 C 83 110 82 125 74 132 C 78 123 79 110 78 102 Z" fill="#ffffff" opacity="0.25"/>
+  <path d="M 13 25 C 2 36 2 120 3 134 C 4 118 4 36 13 25 Z" fill="#733214" opacity="0.3"/>
+</svg>
